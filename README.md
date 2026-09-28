@@ -90,3 +90,11 @@ This project demonstrates how Excel can be used to transform
 employee-level HR data into an interactive attrition dashboard, compare
 attrition patterns across employee groups, and communicate
 business-focused findings clearly.
+
+## Dashboard Preview
+
+![Dashboard 1](Screenshot%202026-09-28%20141236.png)
+
+![Dashboard 2](Screenshot%202026-09-28%20141351.png)
+
+![Dashboard 3](Screenshot%202026-09-28%20141410.png)
